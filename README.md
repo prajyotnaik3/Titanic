@@ -1,2 +1,2 @@
 # Titanic
- Predict whether a person survived or not in the tragedy og Titanic accident.
+ Predict whether a person survived or not in the tragedy of Titanic accident.
